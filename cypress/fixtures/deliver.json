@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Marlon Reis",
+        "cpf": "00000004141",
+        "email": "teste@teste.com",
+        "whatsapp": 51999999999,
+        "address": {
+            "postalcode": 88040420,
+            "street": "Rua José João Martendal",
+            "number": 315,
+            "details": "apto 203",
+            "disctrict": "Carvoeira",
+            "city_state": "Florianópolis/SC"
+            },
+            "delivery_method": "Moto",
+            "cnh": "test1.jpg"
+    },
+    "cpf_inv": {
+        "name": "João Alfredo",
+        "cpf": "x00000004141AA",
+        "email": "joao@teste.com",
+        "whatsapp": 51999999333,
+        "address": {
+            "postalcode": 88040420,
+            "street": "Rua José João Martendal",
+            "number": 315,
+            "details": "apto 203",
+            "disctrict": "Carvoeira",
+            "city_state": "Florianópolis/SC"
+            },
+            "delivery_method": "Moto",
+            "cnh": "test1.jpg"
+    },
+    "email_inv": {
+        "name": "Marley Reis",
+        "cpf": "00000004141",
+        "email": "teste",
+        "whatsapp": 51999999999,
+        "address": {
+            "postalcode": 88040420,
+            "street": "Rua José João Martendal",
+            "number": 315,
+            "details": "apto 203",
+            "disctrict": "Carvoeira",
+            "city_state": "Florianópolis/SC"
+            },
+            "delivery_method": "Moto",
+            "cnh": "test1.jpg"
+    }
+}
